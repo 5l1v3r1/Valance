@@ -20,6 +20,9 @@ http://valanceexecutor.tk
 You can download it there on the official website!
 And make sure to close out any ads or anything popup's as they are just part of the download operator to make money so don't install anything other then the Zip file which the only thing you should get if not just run a virus scan whatever shit
 
+I also put the DLLs of the api and fast colored text box if u want to create your own or whatever
+in the files above me
+
 
 
 # Preview
