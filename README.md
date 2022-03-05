@@ -37,6 +37,7 @@ Compiled in visual studio
 ( Clear button just clears the script in the Fastcolored textbox lol if you don't see it do it urself)
 
 ![image](https://user-images.githubusercontent.com/95067718/156876886-5822f9c4-e101-47ad-b2ac-44ba9c11070c.png)
+
 (Minimize and close do what it says just minimize the application and close it but you can open it if you are like 5 and dont know that lol)
 
 
