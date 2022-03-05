@@ -6,6 +6,8 @@ A roblox level 7 executor! Designed by me the ui looks weird dont worry about it
 # Details
 
 Api used : WeAreDevs_Api.dll
+
+
 EasyExploits never worked for me so idk why so i used wearedevs (even though their executor downloads and api are sketchy as hell)
 Also you can decompile it and find no malware other then 
 the api and the fast colored text box because i wouldn't be an idiot and put malware on github like who does that?
