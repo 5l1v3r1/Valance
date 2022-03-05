@@ -49,5 +49,9 @@ I, the creator, am in no way responsible for any actions that you may make using
 
 # Issues
 Got an issue? No problem just start one up in the Issues tab above this!
+![image](https://user-images.githubusercontent.com/95067718/156877341-28f5c2d9-d8a0-45ea-b1db-c9e6486d1d76.png)
+
+Just click the issues and click create a new issue and ill be there ASAP to solve what you need!
+![image](https://user-images.githubusercontent.com/95067718/156877378-2905a3d3-09b8-421c-ab91-2ac39cd9f84f.png)
 
 
