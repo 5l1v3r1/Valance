@@ -31,7 +31,7 @@ in the files above me
 ( Execute without injecting or attaching)
 ![image](https://user-images.githubusercontent.com/95067718/156877076-96ae3c95-7bb3-4de6-bef9-ed5c7fd36429.png)
 
-![image](https://user-images.githubusercontent.com/95067718/156877153-179afedd-a883-4ef1-8e4c-42ddaed32faf.png)
+![image](https://user-images.githubusercontent.com/95067718/156919228-d550684a-d810-44dd-bd80-92681d102456.png)
 (Inject into the roblox game and make it work idk if roblox bypasses it since the new update lol)
 
 ![image](https://user-images.githubusercontent.com/95067718/156877112-c0231b3a-bc61-4c92-b6cc-40c06d33fc01.png)
