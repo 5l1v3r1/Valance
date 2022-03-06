@@ -19,6 +19,11 @@ the api and the fast colored text box because i wouldn't be an idiot and put mal
 Compiled in visual studio
 http://valancexecutor.tk/
 
+↑ DOWNLOAD AT ↑
+V1.25 FIXED NOT STARTING ON ZIP
+
+
+
 You can download it there on the official website!
 And make sure to close out any ads or anything popup's as they are just part of the download operator to make money so don't install anything other then the Zip file which the only thing you should get if not just run a virus scan whatever shit
 
