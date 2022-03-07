@@ -33,6 +33,16 @@ I also put the DLLs of the api and fast colored text box if u want to create you
 in the files above me
 
 
+# Tutorial
+https://www.youtube.com/watch?v=c2FG_E8WSVo
+
+Setup a tutorial for those who don't know how to use it lol
+Anyway download is at the website 
+
+valancexecutor.tk
+
+
+
 
 # Preview
 ( Execute without injecting or attaching)
